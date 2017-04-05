@@ -6,7 +6,7 @@
 - Những File tài nguyên khác cố gắng upload lên hết luôn
 
 ## 2. Sử dụng Markdown viết bài
-Lưu ý: Markdown chỉ hoạt động với extention .md hoặc .markdown
+Lưu ý: Markdown chỉ hoạt động với tên file có extention .md hoặc .markdown
 
 ```markdown
 ## Các thẻ tiêu đề
